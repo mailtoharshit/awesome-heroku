@@ -4,13 +4,18 @@
 -- A curated list of delightful Heroku Resources 
 
 
-[![Join the chat at https://gitter.im/mailtoharshit/awesome-salesforce](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mailtoharshit/awesome-salesforce?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[<img src="http://res.cloudinary.com/djzl5kma7/image/upload/v1437883451/Heroku_logo_moksip.png" align="right" width="300">](http://login.salesforce.com)
+## Table of Contents  
+* [Awesome Heroku](#awesome-heroku--)
+  * [Postgres](#learning-salesforce-platform)
 
-> Useful resources for creating apps with [Salesforce](http://login.salesforce.com)
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like to read complete [awesome-list](https://github.com/sindresorhus/awesome).*
+
+## <img width="21" height="21" src="images/postgres.png" /> Postgres
+
+- `official` [Heroku Postgres](https://www.heroku.com/postgres) — the landing page explaining with it is.
+- `plugin` [heroku-buildpack-pgbouncer](https://github.com/heroku/heroku-buildpack-pgbouncer) — a buildpack that allows for transaction pooling using [`stunnel`](https://www.stunnel.org/index.html) and [`pgbouncer`](https://wiki.postgresql.org/wiki/PgBouncer) to avoid hitting connection limits.
+- 'download postgres' [Download Postgres for Mac](https://www.postgresql.org/download/macosx/) — and [UI for postgres - PSequel]( http://www.psequel.com/).
 
 
   Read Related Awesome Pages : 
