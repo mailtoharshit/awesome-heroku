@@ -3,7 +3,7 @@
 
 -- A curated list of delightful Heroku Resources 
 
-<img width="21" height="21" src="/images/herokuanimation.gif" />
+<img width="230" height="210" src="/images/herokuanimation.gif" />
 
 
 ## Table of Contents  
